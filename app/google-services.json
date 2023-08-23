@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426160973307",
+    "project_id": "desarrollomovilnativo-a04e0",
+    "storage_bucket": "desarrollomovilnativo-a04e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426160973307:android:b8b63babdfc4e46b0cd75e",
+        "android_client_info": {
+          "package_name": "co.edu.sena.app2687340mateocaselles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426160973307-90lushok9n63f53ncb16q983nj8rs6ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNO9_2KrXnqR3-QkMCUtuRg3FiNLiWaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426160973307-90lushok9n63f53ncb16q983nj8rs6ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
